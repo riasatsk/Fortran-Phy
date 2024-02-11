@@ -20,4 +20,5 @@ program guess_the_number
           end if
     end do
 
-    print*,"You guess
+    print*,"You guessed it right! the random number is ", random;
+end program guess_the_number
